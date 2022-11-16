@@ -55,3 +55,10 @@ http://www.fsf.org/licensing/licenses/agpl-3.0.html
 .. _GeoJSON: http://geojson.org
 .. _ckanext-geoview: https://github.com/ckan/ckanext-geoview
 
+
+## Contacts
+**Geoscience Information Team**,
+Geological Survey of Queensland,
+Department of Resources,
+Brisbane, QLD, Australia,
+<geological_info@resources.qld.gov.au>
